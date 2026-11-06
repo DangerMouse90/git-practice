@@ -12,3 +12,7 @@ I think you need to add more than comments to a file for it to include changes
 # Fourth Git Addition
 
 No that wasnt it, lets try again
+
+# Cracked IT!
+
+Sussed it out! I wasn't sending to staging before commiting changes and syncing! Lots more to learn....
